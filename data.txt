@@ -1,0 +1,3 @@
+#allMapsAttackTeamOne
+#allMapsDefenseTeamOne
+#allMapsTotalTeamOne
